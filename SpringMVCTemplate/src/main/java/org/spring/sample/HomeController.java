@@ -35,5 +35,5 @@ public class HomeController {
 		
 		return "home";
 	}
-	コメント追加5
+	// コメント追加8
 }
